@@ -1,3 +1,5 @@
+# Lwj
+    CppFlow中的Tensor.cpp 有点小问题，对于tf.bool 类型输入节点不支持，在自己的另一个加载项目的测试中已经修改了。
 # CppFlow
 Run TensorFlow models in c++ without Bazel, without TensorFlow installation and without compiling Tensorflow.
 
